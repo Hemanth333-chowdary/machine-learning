@@ -1,0 +1,19 @@
+# machine-learning output 1
+scalable sentimental classification on large scale amazon reviews usingbPySpark MLlib
++--------------------+-----+--------------------+
+|             content|label|               title|
++--------------------+-----+--------------------+
+|All the pretty pe...|    0|Anyone who likes ...|
+|I know that Tom R...|    0|Author seems ment...|
+|This type of spae...|    1|    Spaetzle Noodles|
+|My cats seemed to...|    1|Cool product unti...|
+|I've had no probl...|    1|   Works as expected|
++--------------------+-----+--------------------+
+
+output 2
+Logistic Regression Accuracy: 0.815425
+Random Forest Accuracy: 0.7264
+SVM Accuracy: 0.815875
+Naive Bayes Accuracy: 0.79485
+
+
